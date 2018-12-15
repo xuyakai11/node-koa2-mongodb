@@ -1,0 +1,19 @@
+{
+  "name": "node-koa2-mongodb",
+  "version": "1.0.0",
+  "description": "it's a project about koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "serve": "node index",
+    "watch": "nodemon --inspect index"
+  },
+  "author": "xuyakai",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
