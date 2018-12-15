@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuyakai11/node-koa2-mongodb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xuyakai11/node-koa2-mongodb/issues"
+  },
+  "homepage": "https://github.com/xuyakai11/node-koa2-mongodb#readme"
 }
